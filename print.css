@@ -6,7 +6,43 @@
         font-size: 12pt;
     }
 
+    h1 {
+        font-size: 12pt;
+    }
+
     .nav-bar {
         display: none;
+    }
+
+    .title {
+        display: none;
+    }
+
+    .small-story-3 h1 {
+        font-size: 12pt;
+    }
+
+    .headlines h1 {
+        font-size: 12pt;
+    }
+
+    .small-story-3 h1 {
+        font-size: 12pt;
+    }
+
+    .small-story-2 h1 {
+        font-size: 12pt;
+    }
+
+    .small-story-1 h1 {
+        font-size: 12pt;
+    }
+
+    .big-story {
+        font-size: 12pt;
+    }
+
+    .articles h2{
+        font-size: 12pt;
     }
 }
